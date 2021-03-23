@@ -2,4 +2,4 @@
 The tutorial 1 for GPLAB IDE
 
 What's GPLAB?
-GPLAB:  The 5th generation software Integrated Development Environiment.
+GPLAB:  The 5th generation software Integrated Development Environment.
