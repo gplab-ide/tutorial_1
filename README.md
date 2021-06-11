@@ -3,7 +3,7 @@ The tutorial 1 for GPLAB IDE
 
 Comming soon...
 
-
+http://cnide.com.cn/
 
 What's GPLAB?
 GPLAB:  The 5th generation software Integrated Development Environment.
