@@ -1,5 +1,6 @@
 # tutorial_1
 The tutorial 1 for GPLAB IDE
+with runtime based on kubernetes
 
 Comming soon...
 
